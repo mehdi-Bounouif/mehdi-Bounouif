@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm mehdi, a full-time front-end freelance developer 👨‍💻 working remotely since 2018 </div>  
+### <div align="center">I'm mehdi, a full-time Full Stack Developer 👨‍💻 working remotely since 2018 </div>  
   
 
 - I’m currently working on [ my youtube channel content](https://www.youtube.com/channel/UCezaVVL2fou2Hmw03-S9BQA)  
